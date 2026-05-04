@@ -1,0 +1,15 @@
+# Python virtual environments
+venv/
+.venv/
+.venv310/
+
+# Project-local virtual environments
+Langchain Project Exp7/.venv/
+Langchain Project Exp7/.venv310/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
